@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26361
     wikipedia: http://de.wikipedia.org/wiki/Max_Dauthendey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43361#Die-acht-Gesichter-am-BiwaseeJapanische-Liebesgeschichten
 gutenberg_issued: '2013-07-30'
 gutenberg_type: Text
 identifiers:
